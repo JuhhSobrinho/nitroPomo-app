@@ -1,5 +1,7 @@
 # nitroPomo-app
 
+![Ilustração do Nitro-Pomo App](docs/banner.webp)
+
 Aplicativo mobile feito com React Native e Expo, com o objetivo de apoiar a técnica Pomodoro para gerenciamento de tempo. O projeto está em fase inicial: o código atual ainda é o modelo padrão gerado pelo Expo.
 
 ## Funcionalidades
