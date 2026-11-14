@@ -8,7 +8,7 @@ Projeto desenvolvido por [Juliano Sobrinho](https://github.com/JuhhSobrinho).
 
 ## Tecnologias
 
-Arquivos principais do projeto: `.png`, `.json`, `.js`, `.gitignore.
+Arquivos principais do projeto: `.png`, `.json`, `.js`, `.md`, `.gitignore`.
 
 ## Como executar
 
